@@ -1,5 +1,5 @@
 <p align="center" >
-    PERSONAL PROJECT
+    GROUP PROJECT
   </p>
 
 # Project Title : BOOK RECOMMENDATION USING COLLABORATIVE FILTERING
