@@ -20,6 +20,10 @@
 ## Cosine similarity metric finds the normalized dot product of the two attributes. By determining the cosine similarity, we would effectively try to find the cosine of the angle between the two objects. The cosine of 0° is 1, and it is less than 1 for any other angle.It is thus a judgment of orientation and not magnitude. Two vectors with the same orientation have a cosine similarity of 1, two vectors at 90° have a similarity of 0. Whereas two vectors diametrically opposed having a similarity of -1, independent of their magnitude.Cosine similarity is particularly used in positive space, where the outcome is neatly bounded in [0,1]. One of the reasons for the popularity of cosine similarity is that it is very efficient to evaluate, especially for sparse vectors.
 
 
+## Flow Diagram:
+<img width="694" alt="flow diagram " src="https://user-images.githubusercontent.com/72505000/199667728-8c9c859d-1c92-4def-817d-239a2f02dacf.png">
+
+
 
 
 ## Problem Statement:
