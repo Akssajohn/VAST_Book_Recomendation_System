@@ -63,4 +63,8 @@
 # Book-Recommendation-System
 
 ## Root Mean square is the standard deviation of the residuals. RMSE is a measure of how spread out these residuals are. In other words, it tells you how concentrated the data is around the line of best fit. Since the errors are squared before they are averaged, the RMSE gives a relatively high weight to large errors. This means the RMSE is most useful when large errors are particularly undesirable.It indicates the absolute fit of the model to the data.Provides average model prediction error in units of the variable of interest.They are negatively-oriented scores, which means lower values are better.
+![home_page](https://user-images.githubusercontent.com/72509081/199665051-5e2e536a-79ec-41b3-8b36-7880ee90d75f.png)
+![2](https://user-images.githubusercontent.com/72509081/199665001-48f377b5-bf77-48a9-b6f4-14a93fe8c7d7.png)
+![3](https://user-images.githubusercontent.com/72509081/199665024-be531ef3-dd40-4c2c-9ce3-79439307e635.png)
 
+##
