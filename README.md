@@ -64,10 +64,13 @@
 
 ## Root Mean square is the standard deviation of the residuals. RMSE is a measure of how spread out these residuals are. In other words, it tells you how concentrated the data is around the line of best fit. Since the errors are squared before they are averaged, the RMSE gives a relatively high weight to large errors. This means the RMSE is most useful when large errors are particularly undesirable.It indicates the absolute fit of the model to the data.Provides average model prediction error in units of the variable of interest.They are negatively-oriented scores, which means lower values are better.
 ![home_page](https://user-images.githubusercontent.com/72509081/199665051-5e2e536a-79ec-41b3-8b36-7880ee90d75f.png)
-##Figure 1: HomePage
+
+## Figure 1: HomePage displays the home page of our website. The page consists of a bar which consists of all the book names available to us in the book_pivot file followed by a recommend button. 
 ![2](https://user-images.githubusercontent.com/72509081/199665001-48f377b5-bf77-48a9-b6f4-14a93fe8c7d7.png)
-##Figure 2: Our Chosen Book
+
+## Figure 2: Our Chosen Book displays the book selected by the viewer when the person clicks on the recommend button. The book chosen by the person in the above fig was Birthright and hence all the details related to that book get displayed on the screen. 
 ![3](https://user-images.githubusercontent.com/72509081/199665024-be531ef3-dd40-4c2c-9ce3-79439307e635.png)
-##Figure 3: Recommended Books
+
+## Figure 3: Recommended Books displays all the books which are recommended to the user using collaborative filtering. Hence this screen gives all the necessary details related to the recommended books.
 
 ##
