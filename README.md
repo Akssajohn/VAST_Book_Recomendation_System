@@ -51,7 +51,7 @@
 ### 5. Flask
 ### 7. Pickle
 ### 8. HTML
-### 9. Heroku
+### 9. Google Colab
 
 
 
